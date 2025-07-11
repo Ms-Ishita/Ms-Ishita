@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ms-Ishita&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ### 😂 Random Dev Meme
-<img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-programming-memes-27b656b92f0dac2-758x771.jpg' style="height: 400px;"/>
+<img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-programming-memes-27b656b92f0dac2-758x771.jpg' style="height: 200px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ms-Ishita&icon=0&color=0)](https://visitcount.itsvg.in)
