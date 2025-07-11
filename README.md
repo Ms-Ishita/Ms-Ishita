@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on JAVA Developing<br>👯 I’m looking to collaborate on developing based Projects<br>🌱 I’m currently learning JAVA,DSA and MERN Stack<br>⚡ Fun fact I am a keen Writer too
 
